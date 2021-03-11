@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+Check me out [@deG3nt3lm4n](https://github.com/deG3nt3lm4n) on github
