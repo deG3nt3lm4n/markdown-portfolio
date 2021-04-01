@@ -1,9 +1,9 @@
 
 1.coding
-  *html CSS
-  *javascript
-  *trying to hack
+  * html CSS
+  * javascript
+  * trying to hack
 2.gaming
-  *csgo
-  *minecraft
+  * csgo
+  * minecraft
 3.eating
