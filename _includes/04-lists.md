@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+
+1.coding
+  *html CSS
+  *javascript
+  *trying to hack
+2.gaming
+  *csgo
+  *minecraft
+3.eating
